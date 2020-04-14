@@ -1,6 +1,6 @@
 <html>
     <h1>Users struct with jwt</h1>
-    <p>That repository have object of make available to the community basic struct users and authenticaion of request using JWT for system has been
+    <p>That repository have object of make available to the community basic struct of users and authentication of request using JWT for system has been
         using API Rest with <strong>NodeJS</strong>.
     </p>
     <table>
